@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ogxun
-- 👀 I’m interested in Tech, PC Games and Football & Badminton
+- 👀 I’m interested in Tech, PC Games, Football & Badminton
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Discord Bot Projects
 - 📫 How to reach me - xun#3620, Add me on Discord

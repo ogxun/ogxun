@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ogxun
+- 👋 Hi, I’m xun
 - 👀 I’m interested in Tech, PC Games, Football & Badminton
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Discord Bot Projects
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - xun#3620, Add me on Discord
 
 <!---
